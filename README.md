@@ -7,7 +7,6 @@
 Una herramienta avanzada para músicos y compositores que va más allá de la teoría básica. Utiliza algoritmos probabilísticos para generar progresiones armónicas naturales, interesantes y complejas en múltiples sistemas musicales.
 
 ![App Showcase](screenshots/prog_gen_main.jpeg)
-*(Asegúrate de subir esta imagen a una carpeta 'screenshots' en tu repo)*
 
 ## 🚀 Módulos Principales
 
